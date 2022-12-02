@@ -28,5 +28,6 @@ unsigned int binary_to_uint(const char *b)
 		{
 			ui += base_two;
 		}
+		
 	}
-}
+}	
